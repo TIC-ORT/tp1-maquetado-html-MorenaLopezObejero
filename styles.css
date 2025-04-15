@@ -6,6 +6,13 @@
     
 }
 
+.nav{
+    background-color: blue;
+    width: 100vw;
+    height: 5vh;
+}
 .titulo{
-    background-color: aliceblue;
+    background-color: orange;
+    width: 100vw;
+    height: 40vh;
 }
