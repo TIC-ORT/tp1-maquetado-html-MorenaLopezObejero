@@ -11,13 +11,24 @@
     width: 100vw;
     height: 5vh;
 }
-.titulo{
+header{
     background-color: orange;
-    width: 100vw;
-    height: 40vh;
+    padding: 20px;
+    align-items: center;
+    display: flex;
 }
-.footer{
+.Logo{
+    background-color: darkorange;
+    width: 55vw;
+    height: 55vh;
+}
+main{
+    background-color: red;
+    width: 100vw;
+    height: 53vh;
+}
+footer{
     background-color: grey;
     width: 100vw;
-    height: 40vh;
+    height: 12vh;
 }
